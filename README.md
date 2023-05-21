@@ -21,42 +21,23 @@
     - 22년 7월 기준 온열질환자 885명 발생했으며, 전년 대비 22.1% 증가
     - 질병관리청의 ｢한랭질환 응급실 감시체계 발생 현황｣에 따르면 7월부터 8월 초까지 전국 503곳의 응급실에 한랭질환으로 신고된 환자는 모두 190명으로, 전년(21년) 대비 30% 증가
     - 한랭 질환자 발생 장소로 실외가 80.4%를 차지하며 그중 33.3%가 길가에서 발생
-        
-        ![최근 6년간 온열질환자 수](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dfb34162-5b39-44de-bab6-b4d03086b0ad/image05.png)
-        
-        최근 6년간 온열질환자 수
-        
-
-![최근 5년간 한랭질환자 수](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1bd6e245-de9f-487c-81a0-3051e6c8cc43/image06.png)
-
-최근 5년간 한랭질환자 수
-
-![한랭질환자 주요 발생 장소](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a8c323b8-375b-49d2-a2bd-87074949fad6/image07.png)
-
-한랭질환자 주요 발생 장소
+       
+     <p align="center"><img src="https://github.com/haLinnn/Smartshelter_analysis/assets/108817458/ec3c64d3-ccd2-4f0b-8f8f-0c6edd33dfcd"></p>
 
 - 성동구 주민들의 높은 이용률과 만족도
     - 22년 현재 300만 명을 돌파하는 누적 이용자 수를 기록
     - 연간 성동구 시민의 85%가 스마트쉼터를 이용하였으며, 22년 1월 성동구 시민을 대상으로 한 스마트쉼터 이용 만족도 조사에서 약 94%가 만족한다고 응답
-    
-    ![성동형 스마트쉼터 시간별 누적 이용자 수](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/22641716-8a3b-438e-8eeb-489a31d5ee71/image11.png)
-    
-    성동형 스마트쉼터 시간별 누적 이용자 수
-    
 
-<aside>
-💡 성동구 스마트쉼터에 대한 입지와 주요 변수 간의 연관성을 분석하고 기존 정책을 활용하여, 이동 편의 시설을 개선하여 타 지역 시민의 복지 증진에 이바지하고자 함
-
-</aside>
+    <p align="center"><img src="https://github.com/haLinnn/Smartshelter_analysis/assets/108817458/162910d0-3ba6-4a3c-b9ab-74a457f767da"></p>
+  
+> 💡 성동구 스마트쉼터에 대한 입지와 주요 변수 간의 연관성을 분석하고 기존 정책을 활용하여, 이동 편의 시설을 개선하여 타 지역 시민의 복지 증진에 이바지하고자 함
 
 ### 1.3 부평구 선정 이유
 
 - 인천시는 현재 2020년도부터 2024년까지(4년간) 스마트 도시 계획을 수립
     - 지능형 버스 승강장이 1,303명으로 전체의 34.7% 차지하여 가장 높은 선호도를 보임
     
-    ![인천광역시 4년간의 스마트 도시 계획 수립을 위한 인천시민 5,000명의 설문조사 결과](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/503db272-f6cd-4c4f-8059-46b6c77facca/image13.png)
-    
-    인천광역시 4년간의 스마트 도시 계획 수립을 위한 인천시민 5,000명의 설문조사 결과
+    <p align="center"><img src="https://github.com/haLinnn/Smartshelter_analysis/assets/108817458/0de4407a-b6fa-484e-98ce-140e102e948b"></p>
     
 - 인식에 비해 낮은 범죄율
     - 인천시는 인천에서 일어난 많은 사건 사고에 의해 오명을 쓰고 있음
@@ -66,16 +47,13 @@
     - 부평구는 2022년 인천시 인구 기준 약 16.5% (486,765명)가 거주
     - 부평 지하상가, 부평 문화거리 등 많은 사람들이 모이는 서비스업 중심의 산업 구조가 발달되어 있어 유동 인구가 많음
 
-<aside>
-💡 현재 지자체에 박혀있는 부정적인 이미지를 개선하고자 부평구를 선정
-
-</aside>
+> 💡 현재 지자체에 박혀있는 부정적인 이미지를 개선하고자 부평구를 선정
 
 ## 2. 분석 프로세스
 
 ### 2.1 분석 프로세스 도식화
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/15211b08-0a58-4a05-bad0-760766888c06/Untitled.png)
+![Untitled (8)](https://github.com/haLinnn/Smartshelter_analysis/assets/108817458/c7b37739-c9e9-45e0-97cd-82971ce70e19)
 
 ### 2.2 **분석 방법**
 
@@ -90,68 +68,41 @@
 | 활용 데이터 | 생성 주기 | 설명 |
 | --- | --- | --- |
 | 성동구 스마트쉼터 현황 | 연간 | 성동구 스마트쉼터 위치 자료(47개소) |
-| (1) 22년 버스 노선별 정류장별 시간대별 승하차 인원 정보
-
-(2) 21년 버스 노선별 정류장별 시간대별 승하차 인원 정보
-
-(3) 서울시 정류소 리스트 | 월간 | 서울시 버스 노선별, 정류장 별, 시간대별 승하차 
-인원 및 정류소명
-* 데이터마다 담고 있는 정류장이 상이하므로
-데이터를 조인하여 사용 |
+| 22년 버스 노선별 정류장별 시간대별 승하차 인원 정보| 월간 | 서울시 버스 노선별, 정류장 별, 시간대별 승하차 인원 및 정류소명 |
+| 21년 버스 노선별 정류장별 시간대별 승하차 인원 정보| | |
+| 서울시 정류소 리스트 | | |
 | 서울 지하철역 좌표 | 지점 | 서울시 지하철역명과 지하철역 위치 정보 |
-| 성동구 버스 정류장 인구 | 지점 | 성동구 행정동 및 법정동명, 정류소명 및
-정류소 위치 정보 사용 |
+| 성동구 버스 정류장 인구 | 지점 | 성동구 행정동 및 법정동명, 정류소명 및 정류소 위치 정보 사용 |
 | 성동구 버스 정류장 좌표 | 월간 | 성동구 정류소명, 위도, 경도 등 |
-| 서울특별시 노선정보조회 서비스
-(open API) | 연간 | 노선 번호에 해당하는 버스 배차 간격 추출 |
+| 서울특별시 노선정보조회 서비스 (open API) | 연간 | 노선 번호에 해당하는 버스 배차 간격 추출 |
 | 서울시 도로 노선 정보 | 연간 | 도로의 노선명, 도로 종류, 기능, 규모, 폭 등 |
-| 인천광역시 버스 노선별 정류장 현황 | 월간 | 인천광역시에서 운행하고 있는 시내버스의 
-세부적인 정류소 현황 및 위치 자료 |
+| 인천광역시 버스 노선별 정류장 현황 | 월간 | 인천광역시에서 운행하고 있는 시내버스의 세부적인 정류소 현황 및 위치 자료 |
 | 부평구 버스 정류장 위치 | 수시 | 부평구 정류소명, 위도, 경도 등 |
 | 인천광역시 정류소 이용 승객 현황 | 반기 | 인천시 정류소명, 일평균 승하차 건수 |
 | 인천광역시 차로 폭, 차로 수 현황 | 연간 | 인천시 도로명 및 차로 폭 데이터 사용 |
 | 인천광역시 시내버스 노선 현황 | 연간 | 인천시 시내버스 노선번호, 경유지, 배차 간격 등 |
 | 인천광역시 버스 정류장 사물 주소 현황 | 연간 | 인천시 버스정류장 사물 주소 |
-| 인천교통공사 인천 지하철역 주소 및 
-전화번호 | 연간 | 인천시 지하철역 주소 |
+| 인천교통공사 인천 지하철역 주소 및 전화번호 | 연간 | 인천시 지하철역 주소 |
 
 ## 4. 데이터 정제
 
 
-### 4**.1 데이터 전처리**
+### 4.1 데이터 전처리
 
 - 버스 총 승차 수 데이터
     - 한 달간의 버스 정류장별 승차 인원을 모두 더하여, 버스 정류장별 총 승차 승객 수 데이터를 생성
 
-![image02.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/19969353-c0e8-4e6b-9749-1903c610b9a4/image02.png)
-
-![성동구 버스 정류소별 승차 건수](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c977c292-2ca6-45f8-be96-b5967537bd38/image01.png)
-
-성동구 버스 정류소별 승차 건수
-
-![부평구 버스 정류소별 승차 건수](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fee397dd-ff34-45be-9b47-875d28a9ebae/image03.png)
-
-부평구 버스 정류소별 승차 건수
+<p align="center"><img src="https://github.com/haLinnn/Smartshelter_analysis/assets/108817458/795dd3bb-2a2e-4cff-bb41-b75c3e46be26"></p>
 
 - 버스 수 데이터
     - 버스 정류장 ‘NODE-ID’와 버스 ‘NODE-ID’를 이용하여 버스 정류장별 버스 수 데이터를 생성
     
-    ![성동구 버스 정류소별 버스 수](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6e9a393b-a50d-40cc-a144-3c395deed12e/image05.png)
-    
-    성동구 버스 정류소별 버스 수
-    
-    ![부평구 버스 정류소별 버스 수](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c3f998c1-ed10-4692-9d1d-d67a9b2f1430/image06.png)
-    
-    부평구 버스 정류소별 버스 수
+<p align="center"><img src="https://github.com/haLinnn/Smartshelter_analysis/assets/108817458/188f90e1-2b57-48a9-b4e7-b99eefa9317e"></p>
     
 - 도로폭 데이터
     - 도로폭 데이터상 ‘도로명’과 버스 정류장 데이터상 ‘도로명’을 결합하여 도로폭 데이터를 분석에 사용 가능하게 순서형 데이터로 변환
-
-![image09.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c308447a-4b63-46ba-8d14-b8e0675092b9/image09.png)
-
-![‘도로폭_숫자’ 순서형 데이터](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/34c4b0c3-8278-4aff-86ae-2156c15b8b91/image10.png)
-
-‘도로폭_숫자’ 순서형 데이터
+    
+<p align="center"><img src="https://github.com/haLinnn/Smartshelter_analysis/assets/108817458/6999460c-2ba4-41e2-91c6-9ba0d63f99cb"></p>
 
 - 버스 배차 간격 데이터
     - 버스 정류장별 버스 번호를 구하고, 해당 버스마다 배차 간격 추출
@@ -164,57 +115,19 @@
     - 버스 정류장의 ‘위도, 경도’와 지하철역의 ‘위도, 경도’를 활용하여 각 버스 정류장과 가까운 지하철역 생성
     - 버스 정류장과 가장 가까운 지하철역 간의 거리를 하버사인 패키지(Haversine)를 통해 구함
 
-![버스정류장과 지하철역의 최단 거리](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/87c99007-d166-49c2-9a8c-86068b899555/image12.png)
+    <p align="center"><img src="https://github.com/haLinnn/Smartshelter_analysis/assets/108817458/90d41a78-9614-4fa5-b4ad-d1cd1a1c408f"></p>
 
 버스정류장과 지하철역의 최단 거리
 
 - 인구 데이터
     - 250m 격자 단위의 ‘인구’ 데이터와 버스 정류장 ‘위도, 경도’ 데이터를 Q-GIS를 활용하여, 격자 내 인구 수를 해당 버스 정류장 인구 데이터로 활용
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/85771f2d-1bc9-4ab7-9160-94f76f40ef8f/Untitled.png)
-    
+    <p align="center"><img src="https://github.com/haLinnn/Smartshelter_analysis/assets/108817458/787e60de-9aab-44bf-94c2-b3585ba5dc8b"></p>
 
-### 4**.2 EDA**
 
-![쉼터 여부별 평균 버스 수](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b6687b23-775e-4d45-af92-42d2a36b2877/image07.png)
+### 4.2 이상치 처리
 
-쉼터 여부별 평균 버스 수
-
-![쉼터 여부별 평균 버스 승차 인원](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e8f009b4-36a7-434f-840e-fbd07ff8ec1f/image08.png)
-
-쉼터 여부별 평균 버스 승차 인원
-
-![쉼터 여부별 평균 지하철역 최단 거리](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/500fd7b6-07e8-41b6-a313-46d5d3006a24/image09.png)
-
-쉼터 여부별 평균 지하철역 최단 거리
-
-![쉼터 여부별 평균 배차 간격](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e0833dd5-66a7-4f62-925e-7109be4c8802/image10.png)
-
-쉼터 여부별 평균 배차 간격
-
-![쉼터 여부별 평균 도로폭](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d7bed82f-02e4-494a-9b41-e05c73a1087c/image11.png)
-
-쉼터 여부별 평균 도로폭
-
-![쉼터 여부별 평균 인구수](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/464832a6-2f85-43dc-9da4-cb7ae6c4499a/image12.png)
-
-쉼터 여부별 평균 인구수
-
-### 4.3 이상치 처리
-
-![수치형 데이터들의 Boxplot](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cc3de42e-e978-4033-8713-127c5a40415c/image02.png)
-
-수치형 데이터들의 Boxplot
-
-![‘버스 총 승차 수’열 이상치 데이터의 
-종속변수 분포](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f8b48e91-2469-42b4-a888-23db9277ab6d/image03.png)
-
-‘버스 총 승차 수’열 이상치 데이터의 
-종속변수 분포
-
-![‘지하철역 최단거리(m)’열 이상치 데이터의 종속변수 분포](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/00f88a25-3712-476b-af3c-b808a0faf8de/image04.png)
-
-‘지하철역 최단거리(m)’열 이상치 데이터의 종속변수 분포
+<p align="center"><img src="https://github.com/haLinnn/Smartshelter_analysis/assets/108817458/32442dcd-2d48-4cff-b5e0-5309b899231d"></p>
 
 - ‘버스 총 승차 수’의 이상치 데이터를 모아 종속변수인 ‘쉼터 여부’ Class의 비율을 계산해보았을 때, 약 60:40의 비율을 띄고 있음 → 전체 432개 데이터 중 36개를 제외한 396개의 데이터를 사용
 - ‘지하철역 최단 거리(m)’열의 경우 이상치가 발견되었으나, 100:0에 가까운 비율을 띄어 의미 있는 이상치라 판단하여 제거하지 않고 사용
@@ -243,102 +156,56 @@
 
 ## 5. 모델 학습
 
+> ✅ 현재 종속변수 데이터는 1보다 0의 비율이 더 높은 비대칭 데이터
+> 
+> → class가 0인 데이터를 맞추는 것보다 class가 1인 데이터를 맞추는 것이 훨씬 중요
+>
+> → 머신러닝 평가 지표 중 하나인 ‘재현율(Recall)’을 중심으로 평가
 
-<aside>
-✅ 현재 종속변수 데이터는 1보다 0의 비율이 더 높은 비대칭 데이터
 
-→ class가 0인 데이터를 맞추는 것보다 class가 1인 데이터를 맞추는 것이 훨씬 중요
+> ✅ 보통의 이진 분류 문제는 각 class에 해당하는 확률값을 0.5를 기준으로 분류하지만, 본 분석에서는 여러 분류 임계값을 사용하여 각각의 재현율 및 다른 평가 지표를 확인
 
-→ 머신러닝 평가 지표 중 하나인 ‘재현율(Recall)’을 중심으로 평가
+<p align="center"><img src="https://github.com/haLinnn/Smartshelter_analysis/assets/108817458/3f81fd71-374f-4273-88e3-93654f2db90f"></p>
 
-</aside>
+6. 앙상블(Ensemble)
 
-<aside>
-✅ 보통의 이진 분류 문제는 각 class에 해당하는 확률값을 0.5를 기준으로 분류하지만, 본 분석에서는 여러 분류 임계값을 사용하여 각각의 재현율 및 다른 평가 지표를 확인
-
-</aside>
-
-1. XGBoost
-
-![XGB 모델을 부평구에 적용한 결과](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ebda5e36-7b2b-4980-8a2e-c446fe2740c5/Untitled.png)
-
-XGB 모델을 부평구에 적용한 결과
-
-1. LightGBM
-
-![LGBM 모델을 부평구에 적용한 결과](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b0e58f3e-0313-4ed4-a831-82f5083e4316/Untitled.png)
-
-LGBM 모델을 부평구에 적용한 결과
-
-1. SVM
-
-![SVM 모델을 부평구에 적용한 결과](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d804acf8-d95f-4e99-9a9a-48f0d8ce3acb/Untitled.png)
-
-SVM 모델을 부평구에 적용한 결과
-
-1. Random Forest
-
-![RF 모델을 부평구에 적용한 결과](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/32127661-2c7b-4b0f-8540-07ae2076d7ef/Untitled.png)
-
-RF 모델을 부평구에 적용한 결과
-
-1. KNN
-
-![KNN 모델을 부평구에 적용한 결과](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/59696f72-7ce3-4dcc-8dce-255a4fe666e8/Untitled.png)
-
-KNN 모델을 부평구에 적용한 결과
-
-1. 앙상블(Ensemble)
-    
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/87490cd3-ca91-483c-b818-54804d29bb66/Untitled.png)
+    <p align="center"><img src="https://github.com/haLinnn/Smartshelter_analysis/assets/108817458/eb07aa82-4143-4a2c-a4d1-51e4529c1c53" weight=400 height=300></p>
     
     - 단일 모델을 선택하기보다 앙상블을 통해 일반화된 모델을 구축하고자 함
     - 소프트 보팅(Soft Voting)을 사용
-
-![소프트 보팅을 활용한 최종 설치 적합도 중 상위 5개 정류장](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/01b6829b-4cda-4dde-97c8-c5d14c4a51a3/Untitled.png)
-
-소프트 보팅을 활용한 최종 설치 적합도 중 상위 5개 정류장
+    
+    <p align="center"><img src="https://github.com/haLinnn/Smartshelter_analysis/assets/108817458/8fa898c6-24b1-4072-90e5-930b240a64fd"></p>
 
 ## 6. 분석 결과
 
 ### 6.1 부평구 최적 입지 적합도 상위 정류장 시각화 결과
 
-![부평구 적합도 상위 20개 정류장 지도상 위치](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/04492013-3dc3-4959-9773-dbbdc2742dc3/image13.png)
+<p align="center"><img src="https://github.com/haLinnn/Smartshelter_analysis/assets/108817458/b875892a-9606-41ba-97b4-6ccdde174aad"></p>
 
-부평구 적합도 상위 20개 정류장 지도상 위치
-
-![부평구 스마트쉼터 위치 최적화](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a0dbc199-8117-4211-ba96-7816aabd71f5/image14.png)
-
-부평구 스마트쉼터 위치 최적화
+<p align="center"><img src="https://github.com/haLinnn/Smartshelter_analysis/assets/108817458/7a05b7a1-c9a1-498f-8cd7-9121dc64783b"></p>
 
 ### 6.2 부평구 최적 입지 적합도 상위 3개 정류장 지도상 위치와 사진
 
 1. **부일여자중학교**
 
-![부일여자중학교 정류장 지도상 위치                           부일여자중학교 정류장 사진](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/af39dfe6-f56d-4b50-9641-533f5bd9ecd3/Untitled.png)
-
-부일여자중학교 정류장 지도상 위치                           부일여자중학교 정류장 사진
+<p align="center"><img src="https://github.com/haLinnn/Smartshelter_analysis/assets/108817458/e9e6a95f-ae73-489b-8577-1a2a9c819356"></p>
 
 - 정류장 주변에 부일여중, 인천성동학교가 자리 잡고 있음
 - 도보 2분 거리(104m)에 동수역이 위치
 - 주변에 주거단지, 상권이 활성화되어있고 버스들의 배차 간격이 긴 편
 
-1. **백운역**
+2. **백운역**
 
-![백운역 정류장 지도상 위치                                          백운역 정류장 사진](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/63efd2c2-7c74-41e1-b8e8-66e2a9424ad8/Untitled.png)
-
-백운역 정류장 지도상 위치                                          백운역 정류장 사진
+<p align="center"><img src="https://github.com/haLinnn/Smartshelter_analysis/assets/108817458/6aac3d28-37ac-472a-aeb3-f867fac7cd96"></p>
 
 - 정류장 맞은편에 백운역이 자리 잡고 있음
 - 도보 5~7분 거리에 부평서중학교, 부평서여자중학교, 신촌초등학교, 부광고등학교 위치
 - 1단지, 2단지, 3단지의 현대 아파트 위치
 - 2001아울렛 부평점의 경우 버스를 이용하여 이동 시 도보 1분 내 위치
 
-1. **인천성모병원정문**
+3. **인천성모병원정문**
 
-![인천성모병원 정류장 지도상 위치                                      인천성모병원 정류장 사진](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8e0c06e8-f624-4080-8c18-0cab1f1d7c18/Untitled.png)
-
-인천성모병원 정류장 지도상 위치                                      인천성모병원 정류장 사진
+<p align="center"><img src="https://github.com/haLinnn/Smartshelter_analysis/assets/108817458/a619773a-ef46-4fe8-8c76-d89c494c9a6a"></p>
 
 - 인천성모병원 건너편에 위치하고 다양한 상권이 형성되어 있으며 주민센터와도 가까워 높은 연령대 주민의 이용이 기대됨
 - 입지 1위인 부일여자중학교 버스정류장과 근접함
