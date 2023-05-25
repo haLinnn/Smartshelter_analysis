@@ -117,8 +117,6 @@
 
     <p align="center"><img src="https://github.com/haLinnn/Smartshelter_analysis/assets/108817458/90d41a78-9614-4fa5-b4ad-d1cd1a1c408f"></p>
 
-버스정류장과 지하철역의 최단 거리
-
 - 인구 데이터
     - 250m 격자 단위의 ‘인구’ 데이터와 버스 정류장 ‘위도, 경도’ 데이터를 Q-GIS를 활용하여, 격자 내 인구 수를 해당 버스 정류장 인구 데이터로 활용
     
